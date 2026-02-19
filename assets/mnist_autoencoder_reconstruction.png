@@ -1,0 +1,6 @@
+
+### Create file: `projects/03-image-autoencoder-python/requirements.txt`
+```text
+tensorflow
+numpy
+matplotlib
