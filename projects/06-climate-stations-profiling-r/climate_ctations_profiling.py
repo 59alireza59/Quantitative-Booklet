@@ -1,5 +1,4 @@
 
-### Create file: `projects/06-climate-stations-profiling-r/climate_stations_profiling.R`
 ```r
 # Data Profiling of Climate Stations Database by Country (R)
 
