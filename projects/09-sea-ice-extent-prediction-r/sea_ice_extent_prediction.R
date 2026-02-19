@@ -1,5 +1,4 @@
 
-### Create file: `projects/09-sea-ice-extent-prediction-r/sea_ice_extent_prediction.R`
 ```r
 library(dplyr)
 library(zoo)
